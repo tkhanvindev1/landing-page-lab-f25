@@ -1,0 +1,17 @@
+.img {
+    height: 250;
+    width: 250;
+}
+
+header {
+    background-color: #9d78d9;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #9d78d9;
+}
+
+h1{
+    color: blue
+}
